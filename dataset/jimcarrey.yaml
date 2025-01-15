@@ -1,0 +1,7 @@
+path: ../datasets/JimCarrey
+train: images/train
+val: images/val
+test:
+
+names:
+    0: JimCarrey
